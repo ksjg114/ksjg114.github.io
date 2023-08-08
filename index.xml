@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>kangur</title><link>https://ksjg114.github.io/</link><description>Recent content on kangur</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Aug 2023 11:20:39 +0800</lastBuildDate><atom:link href="https://ksjg114.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown示例学习</title><link>https://ksjg114.github.io/posts/first-post/</link><pubDate>Sun, 06 Aug 2023 11:20:39 +0800</pubDate><guid>https://ksjg114.github.io/posts/first-post/</guid><description>&lt;h2 id="markdown测试">Markdown测试&lt;/h2>
+&lt;h1 id="heading-level-1">Heading level 1&lt;/h1>
+&lt;p>标题级别 1 #&lt;/p>
+&lt;h2 id="heading-level-2">Heading level 2&lt;/h2>
+&lt;p>标题级别 2 ##&lt;/p>
+&lt;h3 id="heading-level-3">Heading level 3&lt;/h3>
+&lt;p>标题级别 3 ###&lt;/p>
+&lt;h4 id="heading-level-4">Heading level 4&lt;/h4>
+&lt;p>标题级别 4 ####&lt;/p>
+&lt;h5 id="heading-level-5">Heading level 5&lt;/h5>
+&lt;p>标题级别 5 #####&lt;/p>
+&lt;h6 id="heading-level-6">Heading level 6&lt;/h6>
+&lt;p>标题级别 6 ######&lt;/p>
+&lt;h2 id="段落">段落&lt;/h2>
+&lt;p>Markdown测试&lt;/p>
+&lt;p>能用&lt;/p>
+&lt;h2 id="强调">强调&lt;/h2>
+&lt;p>网站&lt;strong>一切&lt;/strong>正常&lt;/p>
+&lt;h2 id="斜体">斜体&lt;/h2>
+&lt;p>&lt;em>斜体&lt;/em>正常&lt;/p>
+&lt;h2 id="粗体和斜体">粗体和斜体&lt;/h2>
+&lt;p>这个&lt;em>&lt;strong>确实&lt;/strong>&lt;/em>好用&lt;/p>
+&lt;h2 id="块引用">块引用&lt;/h2>
+&lt;blockquote>
+&lt;p>书籍是人类进步的阶梯&lt;/p>
+&lt;p>一寸光阴一寸金&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>玩原神玩的&lt;/p>
+&lt;blockquote>
+&lt;p>——鲁迅&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;h2 id="与其他元素引用">与其他元素引用&lt;/h2>
+&lt;blockquote>
+&lt;h3 id="鲁迅说过的话">鲁迅说过的话&lt;/h3>
+&lt;ul>
+&lt;li>玩&lt;em>原神&lt;/em>玩的&lt;/li>
+&lt;li>我没说过&lt;strong>这&lt;/strong>句话&lt;/li>
+&lt;li>抓鲁迅跟我&lt;em>&lt;strong>周树人&lt;/strong>&lt;/em>有什么关系&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h2 id="列表">列表&lt;/h2>
+&lt;p>1 . 测试&lt;/p>
+&lt;p>2 . 保存&lt;/p>
+&lt;p>3 . 发布&lt;/p>
+&lt;p>4 . 水完第一篇&lt;/p>
+&lt;ul>
+&lt;li>测试&lt;/li>
+&lt;li>保存&lt;/li>
+&lt;li>发布&lt;/li>
+&lt;li>水完第一篇&lt;/li>
+&lt;/ul>
+&lt;p>》&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>第一&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>第二&lt;/p>
+&lt;blockquote>
+&lt;p>第二可以&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>
+&lt;p>第三&lt;/p>
+&lt;p>第三也不错&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>第四&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="代码块">代码块&lt;/h2>
+&lt;p>一键删库&lt;/p>
+&lt;p>1 . 定位&lt;/p>
+&lt;p>2 . 使用以下命令:&lt;/p>
+&lt;pre>&lt;code> rm -rf /*
+&lt;/code>&lt;/pre>
+&lt;p>3 . 跑路&lt;/p>
+&lt;h2 id="代码块2">代码块2&lt;/h2>
+&lt;pre>&lt;code>rm -rf /*
+&lt;/code>&lt;/pre>
+&lt;h2 id="水平线">水平线&lt;/h2>
+&lt;p>分割一下&lt;/p>
+&lt;hr>
+&lt;p>水平线&lt;/p>
+&lt;p>打不开的&lt;a href="https://www.google.com/">&lt;em>链接&lt;/em>&lt;/a> （中文括号不能用）&lt;/p>
+&lt;h2 id="url-和电子邮件地址">URL 和电子邮件地址&lt;/h2>
+&lt;p>&lt;a href="mailto:fake@example.com">fake@example.com&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://www.markdownguide.org/">https://www.markdownguide.org/&lt;/a>&lt;/p>
+&lt;h2 id="图片">图片&lt;/h2>
+&lt;p>&lt;img loading="lazy" src="https://cdn.jsdelivr.net/gh/ksjg114/fluffy-barnacle/0C23B5362A3C9FBF88D050CF5763F556.jpg" alt="玩原神玩的" />
+&lt;/p></description></item></channel></rss>
